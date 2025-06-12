@@ -1,4 +1,4 @@
-# FaceRecognitionAttendanceSystem <hr>
+# Face Recognition Attendance System <hr>
 
 # DEFINITION : 
 <p>Faced Recognition is a biometric method of identifying individual by comparing live capture or digital image data with the stored record for that person.<br>
